@@ -14,7 +14,7 @@ I performed this analysis through the Kickstarter dataset provided by using pivo
 
 I created a column called "Years" to be able to filter by year on the data. I then created a pivot table with the Kickstarter data in a new sheet called "Outcomes Based on Launch Date" with filters for Parent Category and Years only showing successful, failed, and canceled projects. I grouped the row labels to only show months of the year. I filtered the data to only show theater info so that it could relate to Louise's problem. Using this filtered data, I created a chart called "Theater Outcomes Based on Launch Date" to visualize the information.
 
-![](Theater_Outcomes_vs_Launch.png)
+![](/resources/Theater_Outcomes_vs_Launch.png)
 
 Looking at the line chart above, we can see that the most theater projects were successful in May and overall in the summer months between May through July. There were always more successful projects than failed projects and than canceled projects for each of the months.
 
@@ -23,7 +23,7 @@ I performed this analysis through the Kickstarter dataset provided by using the 
 
 I created a new sheet called "Outcomes Based on Goals" where I grouped the goal funding into buckets of funding amounts to better visualize the data. I used the Sum function to find how many projects were in each funding group bucket to calculate the percentage of successful, failed, and canceled projects. I created a chart called "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
-![](Outcomes_vs_Goals.png)
+![](/resources/Outcomes_vs_Goals.png)
 
 Looking at the line chart above, we can see that the most successful projects had funding goals less than $15,000 and between $35,000 to $44,999. The greatest percentage of failed projects were between $15,000 to $34,999 and greater than $45,000. 
 
