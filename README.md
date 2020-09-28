@@ -3,7 +3,7 @@
 ## Overview of Project
  
 ### Purpose
-Louise would like to compare how different campaigns fared in relation to their launch dates and funding goals. I will be performing analysis on Kickstarter data to uncover trends. Using the analysis on the Kickstarter data, two graphs were created to visualize the data. These graphs are on the outcomes based on goals and outcomes based on launch date.
+Louise would like to compare how different campaigns fared in relation to their launch dates and funding goals. I will be performing analysis on Kickstarter data to uncover trends. Using the analysis on the Kickstarter data, two graphs were created to visualize the data. These graphs are on the outcomes based on goals and outcomes based on launch date. 
 
 Deliverable 1 shows knowledge of pivot tables and graphs to visualize campaign outcomes based on launch date. Deliverable 2 shows knowledge of new Excel formulas and functions to visualize the percentage of successful, failed, and canceled plays based on funding goal amount category.
 
